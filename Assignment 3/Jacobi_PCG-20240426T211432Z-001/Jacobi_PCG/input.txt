@@ -1,0 +1,8 @@
+Number of grids in x-direction = 128
+Number of grids in y-direction = 128
+Temperature at top = 1
+Temperature at bottom = 0
+Temperature at left = 0
+Temperature at right = 0
+Width of the domain = 1
+Height of the domain = 1
